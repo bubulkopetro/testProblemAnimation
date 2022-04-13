@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/juliamolyashcha/Documents/code/cosmiplex/testProblem/media/videos/main/480p15/partial_movie_files/PolygonExample/3163782288_2358458804_1605173757.mp4'
+file 'file:/Users/juliamolyashcha/Documents/code/cosmiplex/testProblem/media/videos/main/480p15/partial_movie_files/PolygonExample/2201830969_3916963315_375687878.mp4'
+file 'file:/Users/juliamolyashcha/Documents/code/cosmiplex/testProblem/media/videos/main/480p15/partial_movie_files/PolygonExample/2201830969_3976234985_288518680.mp4'
